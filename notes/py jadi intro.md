@@ -1,5 +1,5 @@
 
->دوره 3 ساعته جادی داخل مکتب خونه
+>ویدیو 4 ساعته جادی داخل مکتب خونه
 
 وقتی تو [[Terminal]] دستور `python3` رو میزنیم، وارد محیط **IDLE** میشیم که قبل از pointer `<<<` رو نشون میده
 مخفف: integrated development & learning environment
